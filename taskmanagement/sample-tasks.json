@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Design database schema",
+    "description": "Plan the MongoDB collections and relationships for the app",
+    "status": "done",
+    "priority": "high",
+    "dueDate": "2025-04-10T00:00:00.000Z"
+  },
+  {
+    "title": "Build REST API endpoints",
+    "description": "Create CRUD endpoints using Express and Mongoose",
+    "status": "done",
+    "priority": "high",
+    "dueDate": "2025-04-12T00:00:00.000Z"
+  },
+  {
+    "title": "Build Kanban frontend",
+    "description": "Create a drag-and-drop Kanban board using HTML, CSS, and JS",
+    "status": "inprogress",
+    "priority": "high",
+    "dueDate": "2025-04-15T00:00:00.000Z"
+  },
+  {
+    "title": "Write unit tests",
+    "description": "Cover all API routes with Jest/Supertest",
+    "status": "todo",
+    "priority": "medium",
+    "dueDate": "2025-04-20T00:00:00.000Z"
+  },
+  {
+    "title": "Deploy to production",
+    "description": "Host backend on Render and frontend on Vercel",
+    "status": "todo",
+    "priority": "low",
+    "dueDate": "2025-04-25T00:00:00.000Z"
+  }
+]
